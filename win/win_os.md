@@ -1,5 +1,11 @@
 # Windows
 
+## 快捷键
+
+[点鼠标右键的键盘快捷键是什么？\_百度知道](https://zhidao.baidu.com/question/14657851.html)
+
+Shift + F10
+
 ## 高级系统设置
 
 [How to: Add Tool Locations to the PATH Environment Variable \| Microsoft Docs](https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14))
@@ -70,3 +76,47 @@ PS C:\Users\Administrator> taskkill /pid 7528 -t -f;
 
 [**关闭或开启Win10系统自动更新**](https://box.lenovo.com/l/t5dQKH)
 
+## 开机自启动
+
+[Win10怎么设置开机自启动软件 如何打开指定应用-百度经验 (baidu.com)](https://jingyan.baidu.com/article/5d368d1ebfdf1a3f60c057f8.html)
+
+>   在Windows10桌面，右键点击桌面左下角的开始按钮，在弹出的菜单中选择“运行”菜单项。
+>
+>   这时就会打开Windows10的运行窗口，在窗口中输入命令shell:startup，然后点击确定按钮。
+>
+>   这时就可以打开Windows10系统的启动文件夹
+>
+>   把需要开机启动的应用或是程序的快捷方式拖动到该文件夹中，这样以后电脑开机的时候，就会自动启动这些应用。
+
+可以把该文件夹快捷方式发送到桌面
+
+[Win10如何设置一个程序开机启动-腾讯电脑管家官网 (qq.com)](https://guanjia.qq.com/web_clinic/s8/1670.html)
+
+## 桌面
+
+win10桌面空出来一部分
+
+原因:图标过大,可以点击桌面用`Ctrl + 滑轮`缩放图标。
+
+## 空间清理
+
+### SpaceSniffer
+
+### Disc++
+
+如何对Windows系统盘下的Installer文件夹以及WinSxS文件夹进行清理？ - yichya QC的回答 - 知乎 https://www.zhihu.com/question/34964216/answer/60559237
+
+## 缩略图
+
+![image-20221112235532765](img/image-20221112235532765.png)
+
+[windows设置查看文件方式为详细信息\_朝着希望前进的博客\-CSDN博客](https://blog.csdn.net/zl544434558/article/details/21233137)
+
+![image-20221112235812314](img/image-20221112235812314.png)
+
+因为列表显示查找文件非常方便，但是，也习惯了列表视图，但是xp，默认是【平铺】模式，每次都要手动改动每一个文件夹为【详细信息】模式，太麻烦。最近找到一个办法：
+第一步：进入C盘（或D、E、F中任一盘符） -->点击 工具栏中【查看】按钮 --> 【详细信息】
+第二步：点击菜单栏中的【工具】 --> 【文件夹选项】 --> 选择【查看】选项卡 --> 找到【高级设置】列表内的【记住每个文件夹的视图设置】，将其前面的勾去掉 --> 再点击列表上面【文件夹视图】块中的【应用到所有文件夹】 --> 点击【是】 --> 点击【确定】
+————————————————
+版权声明：本文为CSDN博主「vebasan」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/vebasan/article/details/5857842
